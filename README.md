@@ -1,5 +1,5 @@
 # Samuel Fernandes
-- 🇧🇷 State of Santa Catarina
+- 🇧🇷
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="max-width:100%;"></img>
